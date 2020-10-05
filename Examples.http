@@ -1,0 +1,13 @@
+
+### List Todos
+GET http://localhost:8080/api/v1/todos
+
+
+### Create Todo
+POST http://localhost:8080/api/v1/todos
+Content-Type: application/json
+
+{
+  "title": "Task 1",
+  "completed": true
+}
