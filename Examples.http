@@ -9,5 +9,5 @@ Content-Type: application/json
 
 {
   "title": "Task 1",
-  "completed": true
+  "completed": false
 }
